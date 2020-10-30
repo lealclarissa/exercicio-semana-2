@@ -12,3 +12,7 @@ Resultado | Parâmetro
 Aprovadx | Média maior ou igual a 7
 Reprovadx | Média menor que 5
 Em recuperação | Média maior ou igual a 5 e menor que 7
+
+---
+
+Para mais informações: https://github.com/reprograma/on7-porto-s2-resolucao-problemas-I
